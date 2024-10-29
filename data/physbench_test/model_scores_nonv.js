@@ -2,7 +2,7 @@ physbench_test_score_table_nonv = {
   "-": {
     "Model": "Human Performance",
     "Method": "-",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 95.87,
     "object": 97.10,
@@ -13,7 +13,7 @@ physbench_test_score_table_nonv = {
   "1": {
     "Model": "InternVL-Chat1.5 \ud83e\udd47",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 47.51,
     "object": 53.08,
@@ -24,7 +24,7 @@ physbench_test_score_table_nonv = {
   "2": {
     "Model": "LLaVA1.6-vicuna \ud83e\udd48",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 42.28,
     "object": 40.26,
@@ -35,7 +35,7 @@ physbench_test_score_table_nonv = {
   "3": {
     "Model": "LLaVA-1.5-13B \ud83e\udd47",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 40.45,
     "object": 41.31,
@@ -46,7 +46,7 @@ physbench_test_score_table_nonv = {
   "4": {
     "Model": "LLaVA-1.5-7B",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 40.09,
     "object": 38.44,
@@ -57,7 +57,7 @@ physbench_test_score_table_nonv = {
    "5": {
     "Model": "Claude-3-haiku",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 39.44,
     "object": 43.28,
@@ -68,7 +68,7 @@ physbench_test_score_table_nonv = {
   "6": {
     "Model": "BLIP-2",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 38.61,
     "object": 41.70,
@@ -79,7 +79,7 @@ physbench_test_score_table_nonv = {
   "7": {
     "Model": "InstructBLIP-t5-xxl",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 38.51,
     "object": 41.11,
@@ -90,7 +90,7 @@ physbench_test_score_table_nonv = {
   "8": {
     "Model": "Claude-3.5-sonnet",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 38.05,
     "object": 46.46,
@@ -101,7 +101,7 @@ physbench_test_score_table_nonv = {
   "9": {
     "Model": "PLLaVA-7B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.94,
     "object": 38.02,
@@ -112,7 +112,7 @@ physbench_test_score_table_nonv = {
   "10": {
     "Model": "PLLaVA-13B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.70,
     "object": 39.91,
@@ -123,7 +123,7 @@ physbench_test_score_table_nonv = {
   "11": {
     "Model": "Video-LLaVA",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.04,
     "object": 36.82,
@@ -134,7 +134,7 @@ physbench_test_score_table_nonv = {
   "12": {
     "Model": "Claude-3-opus",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.00,
     "object": 41.97,
@@ -145,7 +145,7 @@ physbench_test_score_table_nonv = {
   "13": {
     "Model": "InstructBLIP-t5-xl",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 36.24,
     "object": 35.35,
@@ -156,7 +156,7 @@ physbench_test_score_table_nonv = {
   "14": {
     "Model": "Claude-3-sonnet",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 36.18,
     "object": 37.86,
@@ -167,7 +167,7 @@ physbench_test_score_table_nonv = {
   "15": {
     "Model": "Qwen-VL-Chat",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 35.63,
     "object": 35.97,
@@ -178,7 +178,7 @@ physbench_test_score_table_nonv = {
   "16": {
     "Model": "InstructBLIP-13B",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 29.94,
     "object": 31.69,
@@ -189,7 +189,7 @@ physbench_test_score_table_nonv = {
   "17": {
     "Model": "Cambrian-8B",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 24.61,
     "object": 23.27,
@@ -200,7 +200,7 @@ physbench_test_score_table_nonv = {
   "18": {
     "Model": "InstructBLIP-7B",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 23.82,
     "object": 21.94,
@@ -211,7 +211,7 @@ physbench_test_score_table_nonv = {
   "19": {
     "Model": "Chat-Univi-7B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 22.19,
     "object": 19.28,
@@ -222,7 +222,7 @@ physbench_test_score_table_nonv = {
   "20": {
     "Model": "LLaVA1.6-mistral",
         "Method": "merge \ud83d\uddbc\ufe0f",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 20.30,
     "object": 29.77,
@@ -233,7 +233,7 @@ physbench_test_score_table_nonv = {
   "21": {
     "Model": "Chat-Univi-13B",
    "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 10.36,
     "object": 4.30,

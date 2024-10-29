@@ -2,7 +2,7 @@ physbench_test_score_table = {
   "-": {
     "Model": "Human Performance",
     "Method": "-",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 95.87,
     "object": 97.10,
@@ -13,7 +13,7 @@ physbench_test_score_table = {
   "1": {
     "Model": "GPT-4o \ud83e\udd47",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 49.49,
     "object": 56.91,
@@ -24,7 +24,7 @@ physbench_test_score_table = {
   "2": {
     "Model": "Gemini-1.5-pro \ud83e\udd48",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 49.11,
     "object": 57.26,
@@ -35,7 +35,7 @@ physbench_test_score_table = {
   "3": {
     "Model": "Gemini-1.5-flash \ud83e\udd49",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 46.07,
     "object": 57.41,
@@ -46,7 +46,7 @@ physbench_test_score_table = {
   "4": {
     "Model": "GPT-4o-mini",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 43.15,
     "object": 53.54,
@@ -57,7 +57,7 @@ physbench_test_score_table = {
   "5": {
     "Model": "GPT-4V",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 41.26,
     "object": 49.59,
@@ -68,7 +68,7 @@ physbench_test_score_table = {
   "6": {
     "Model": "LLaVA-interleave",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 41.00,
     "object": 47.23,
@@ -79,7 +79,7 @@ physbench_test_score_table = {
   "7": {
     "Model": "LLaVA-interleave-dpo",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 40.83,
     "object": 47.97,
@@ -90,7 +90,7 @@ physbench_test_score_table = {
   "8": {
     "Model": "Phi-3V",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 38.42,
     "object": 43.67,
@@ -101,7 +101,7 @@ physbench_test_score_table = {
   "9": {
     "Model": "Mantis-siglip-llama3",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.64,
     "object": 42.47,
@@ -112,7 +112,7 @@ physbench_test_score_table = {
   "10": {
     "Model": "LLaVA-NV-dpo",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.43,
     "object": 38.83,
@@ -123,7 +123,7 @@ physbench_test_score_table = {
   "11": {
     "Model": "Mantis-Idefics2",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.39,
     "object": 41.97,
@@ -134,7 +134,7 @@ physbench_test_score_table = {
   "12": {
     "Model": "VILA-1.5-13B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 37.15,
     "object": 40.53,
@@ -145,7 +145,7 @@ physbench_test_score_table = {
   "13": {
     "Model": "Mantis-clip-llama3",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 36.92,
     "object": 40.61,
@@ -156,7 +156,7 @@ physbench_test_score_table = {
   "14": {
     "Model": "Mantis-LLaVA",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 36.69,
     "object": 44.48,
@@ -167,7 +167,7 @@ physbench_test_score_table = {
   "15": {
     "Model": "LLaVA-NV",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 35.42,
     "object": 38.33,
@@ -178,7 +178,7 @@ physbench_test_score_table = {
   "16": {
     "Model": "VILA-1.5-3B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 34.11,
     "object": 32.40,
@@ -189,7 +189,7 @@ physbench_test_score_table = {
   "17": {
     "Model": "VILA-1.5-3B-s2",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 33.07,
     "object": 33.14,
@@ -200,7 +200,7 @@ physbench_test_score_table = {
   "18": {
     "Model": "VILA-1.5-8B",
     "Method": "seq \u23e9",
-    "Source": "<my_paper_link>",
+    "Source": "https://openreview.net/pdf?id=Q6a9W6kzv5",
     "Date": "2024-08-15",
     "ALL": 32.85,
     "object": 33.41,
